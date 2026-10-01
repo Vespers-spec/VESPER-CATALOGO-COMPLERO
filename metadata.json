@@ -1,0 +1,6 @@
+{
+  "name": "Vesper Perfumería - Catálogo Interactivo de Alta Gama",
+  "description": "Catálogo interactivo y elegante de perfumes de autor y fragancias de lujo con búsqueda en tiempo real, pirámides olfativas y pedidos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
